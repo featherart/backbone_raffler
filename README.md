@@ -22,5 +22,7 @@ rails g controller main index --skip-javascripts
 
 10. now create a view to route to. under the index method point to the template in templates/entries/index.jst.eco. set up the template to render something.
 
-11. 
+11. scope the entries resources under 'api' in the routes file
+
+12. 
 
